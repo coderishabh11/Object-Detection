@@ -51,7 +51,6 @@ Clone this repository and install the required packages:
 ```bash
 git clone <repository_url>
 cd <repository_directory>
-pip install -r requirements.txt
 ```
 
 ## Running the Project
